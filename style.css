@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: "poppins";
+    src: url(/Poppins-Bold.otf);
+}
+@font-face {
+    font-family: "poppinss";
+    src: url(/Poppins-Light.otf);
+}
+@font-face {
+    font-family: "poppinsss";
+    src: url(/Poppins-ExtraLight.otf);
+}
+body{
+    font-family: poppins;
+}
+center h1{
+    font-family: poppins;
+    line-height: 1.0;
+    font-size: 48px;
+}
+.daftar-isi{
+    font-family: poppinss;
+    margin-left: 17.3rem;
+}
+.daftar-isi h3{
+    line-height: 0.06;
+}
+.daftar-isi a{
+    font-family: poppinss;
+    text-decoration: none;
+}
+.content{
+    margin-left: 17.3rem;
+    width: 58%;
+    font-family: poppinss;
+}
+#introduction span{
+    font-size: 29px;
+    font-family: poppins;
+}
+pre{
+    font-weight: 85;
+    font-family: poppinsss;
+
+}
+#various pre{
+    font-weight: bold;
+}
+#various small{
+    font-weight: 70;
+    font-size:small;
+}
+center p{
+    font-family: poppinss;
+    font-size: 12px;
+    line-height: 0.05;
+}
+.content h2{
+    font-family: poppinss;
+    line-height: 0.06;
+}
